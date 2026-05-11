@@ -1,4 +1,4 @@
-## 📊 System Diagrams
+## 5. System Diagrams
 
 ### 1. Class Diagram
 High-level overview of the system's objects, attributes, and their relationships.
